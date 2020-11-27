@@ -1,0 +1,51 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color: #999;
+	font-size: 62.5%;
+}
+
+header,
+main,
+footer {
+	background-color: #ddd;
+	font-size: 1.6em;
+}
+
+header {
+    padding: 1.875em 0;
+    font-size: larger;
+}
+
+header h1 {
+	text-align: center;
+}
+
+h1, h2, h3 {
+    margin: 0;
+    font-size: x-large;
+    
+}
+
+h1 {
+	font-size: 80px;
+}
+
+main h2 {
+	padding: 0.625em 0 0.625em 0.625em;
+}
+p {
+    padding: 1.25em;
+    font-size: large;
+    }
+img {
+	width: 100%;
+	max-width: 100%;
+}
+.City{
+    color:blue;
+}
+#intro{
+    background-color: gray; 
+}
